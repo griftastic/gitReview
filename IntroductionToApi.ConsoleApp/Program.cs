@@ -25,7 +25,7 @@ namespace IntroductionToApi.ConsoleApp
                 Console.WriteLine(cyrano.NameUSen);
                 Console.ReadKey();
 
-                // foreach(string vehiclesUrl in luke.Vehicles)
+                // foreach(string catch-translations in cyrano.catch-translations)
                 // {
 
                 // }
